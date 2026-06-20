@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Shruti Singh 👋
 
-<!--
-**shrutisingh07/shrutisingh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+🎯 Interests:
+Artificial Intelligence | Machine Learning | Data Analytics | NLP | Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### AI Resume Analyzer
+AI-powered Resume Analyzer using NLP and Streamlit.
+
+### Customer Churn Analysis Dashboard
+Customer churn prediction dashboard built using Python, Machine Learning, and Streamlit.
+
+## 🛠️ Tech Stack
+
+Python | Pandas | NumPy | Scikit-Learn | Streamlit | NLP | Git | GitHub
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- NLP
+- Data Analytics
+
+## 📫 Connect With Me
+
+LinkedIn: linkedin.com/in/shruti-singh-858b76372 
